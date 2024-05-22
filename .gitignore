@@ -1,2 +1,3 @@
-data-streaming
+/data-streaming
 .dockerignore
+.DS_Store
