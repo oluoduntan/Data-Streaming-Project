@@ -1,3 +1,8 @@
 data-streaming
+<<<<<<< HEAD
 dags/__pycache__
 .DS_Store
+=======
+.dockerignore
+.DS_Store
+>>>>>>> d576e6eaea3a072c8b819e552142471f00c1ea3f
